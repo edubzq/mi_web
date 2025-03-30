@@ -1,0 +1,6 @@
+
+Ipython:S11727"*Remove the unused function parameter "cs".(ã­ş÷8‰òı‹Ü1
+Npython:S11727"/Remove the unused function parameter "headers".(ã­ş÷8‰òı‹Ü1
+Wpython:S1481"2Replace unused local variable "wsublist" with "_".(ØæŸ¬øÿÿÿÿ8Šòı‹Ü1
+Wpython:S1481"2Replace unused local variable "xsublist" with "_".(ØæŸ¬øÿÿÿÿ8‰òı‹Ü1
+spython:S3776c"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¹Öõ·8Šòı‹Ü1

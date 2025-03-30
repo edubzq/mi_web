@@ -1,0 +1,14 @@
+//
+// Do any local configuration here
+//
+
+// Consider adding the 1918 zones here, if they are not used in your
+// organization
+//include "/etc/bind/zones.rfc1918";
+
+zone "nebulanexus1345.com" {
+   type master;
+   file "/etc/bind/zones/db.nebulanexus.com.zone";
+   allow-transfer { 192.168.56.103; };
+   also-notify { 192.168.56.103; };
+};
